@@ -1,1 +1,2 @@
+this is a file from the main branch
 this is a file from feature branch
